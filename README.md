@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 My Profile link:
-https://personal-website-react-opal.vercel.app/
+[https://personal-website-react-opal.vercel.app/](https://personal-website-react-opal.vercel.app/) 
